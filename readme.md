@@ -1,6 +1,6 @@
-# 📊 Carreira Análise de Dados — Trilha Alura
+# 📊 Carreira Ciência/Análise de Dados — Trilha Alura
 
-Este repositório reúne meus **estudos, exercícios e projetos desenvolvidos ao longo da trilha de Análise de Dados da Alura**, com foco na construção de uma base sólida para atuação profissional na área de dados.
+Este repositório reúne meus **estudos, exercícios e projetos desenvolvidos ao longo da trilha de Dados da Alura**, com foco na construção de uma base sólida para atuação profissional na área de dados.
 
 O objetivo principal é **documentar minha evolução**, praticar boas práticas e criar um **portfólio público** para oportunidades profissionais.
 
